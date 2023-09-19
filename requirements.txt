@@ -1,1 +1,2 @@
-""" The requirements are PIP INSTALL TABULATE """
+tabulate
+json
